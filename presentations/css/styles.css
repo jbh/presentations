@@ -24,7 +24,7 @@
 }
 
 .jumbotron .container {
-    max-width: 40rem;
+    max-width: 45rem;
 }
 
 main section {
@@ -32,7 +32,6 @@ main section {
 }
 
 #Biography .card {
-    width: 30rem;
-    max-width: 100%;
+    max-width: 30rem;
     margin: 0 auto;
 }
