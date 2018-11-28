@@ -35,3 +35,7 @@ main section {
     max-width: 30rem;
     margin: 0 auto;
 }
+
+#Presentations .list-group-item p {
+    margin-bottom: 0;
+}
