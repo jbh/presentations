@@ -36,6 +36,6 @@ main section {
     margin: 0 auto;
 }
 
-#Presentations .list-group-item p {
+.list-group-item p {
     margin-bottom: 0;
 }
