@@ -12,16 +12,12 @@
         <item>
             <title>Let's Get This OSS</title>
             <category>Presentation</category>
-            <link>
-                http://jbh.io/presentations/#LetsGetThisOSS
-            </link>
+            <link>http://jbh.io/presentations/#LetsGetThisOSS</link>
             <description>
                 This talk will leave you with a basic understanding of how to access open source software on IBM i.
             </description>
             <pubDate>Fri, 30 Nov 2018 03:27:00 GMT</pubDate>
-            <guid>
-                http://jbh.io/presentations/#LetsGetThisOSS
-            </guid>
+            <guid>http://jbh.io/presentations/#LetsGetThisOSS</guid>
         </item>
     </channel>
 </rss>
