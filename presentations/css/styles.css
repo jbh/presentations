@@ -43,3 +43,20 @@ main section {
 .list-group-item p {
     margin-bottom: 0;
 }
+
+#mc_embed_signup {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#mc_embed_signup form {
+    text-align: center;
+}
+
+#mc_embed_signup input.email {
+    margin: 0 auto 10px;
+}
+
+#mc_embed_signup input.button {
+    margin: 0 auto 10px;
+}
