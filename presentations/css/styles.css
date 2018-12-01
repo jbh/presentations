@@ -2,6 +2,10 @@
     --jumbotron-padding-y: 3rem;
 }
 
+h2 {
+    text-align: center;
+}
+
 .jumbotron {
     padding-top: var(--jumbotron-padding-y);
     padding-bottom: var(--jumbotron-padding-y);
